@@ -5,7 +5,7 @@
 
 | Topic            | Code                | Video                |
 | ---------------- |-------------------- |--------------------- |
-| Hashketball Review | [Code][hashketball-code] | [Video][hashketball-video] |
+| Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
