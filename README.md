@@ -21,4 +21,4 @@
 [hashes-and-internet-video]: http://youtu.be/XwUeicw7Osk
 
 [intro-object-oriented-programming-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/03-oo/
-[intro-object-oriented-programming-video]: http://youtu.be/FeTIaXh48EM[hashes-and-internet-video]: http://youtu.be/XwUeicw7Osk
+[intro-object-oriented-programming-video]: http://youtu.be/FeTIaXh48EM
