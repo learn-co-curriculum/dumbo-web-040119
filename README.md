@@ -9,6 +9,8 @@
 | ---------------- |-------------------- |--------------------- |
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
 | Hashes and the Internet | [Code][hashes-and-internet-code] | [Video][hashes-and-internet-video] |
+| Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
+
 
 
 
@@ -17,3 +19,6 @@
 
 [hashes-and-internet-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/02-hashes-internet/
 [hashes-and-internet-video]: http://youtu.be/XwUeicw7Osk
+
+[intro-object-oriented-programming-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/03-oo/
+[intro-object-oriented-programming-video]: http://youtu.be/FeTIaXh48EM[hashes-and-internet-video]: http://youtu.be/XwUeicw7Osk
