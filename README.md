@@ -25,4 +25,4 @@
 [intro-object-oriented-programming-video]: http://youtu.be/FeTIaXh48EM
 
 [1-many-relationships-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/04-one-to-many
-[1-many-relationships-video]: http://youtu.be/RoxtY40pddc
+[1-many-relationships-video]: https://www.youtube.com/watch?v=Lssf6NbDLeg
