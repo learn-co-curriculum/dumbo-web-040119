@@ -10,6 +10,7 @@
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
 | Hashes and the Internet | [Code][hashes-and-internet-code] | [Video][hashes-and-internet-video] |
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
+| Object Relationships: One to Many | [Code][1-many-relationships-code] | [Video][1-many-relationships-video] |
 
 
 
@@ -22,3 +23,6 @@
 
 [intro-object-oriented-programming-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/03-oo/
 [intro-object-oriented-programming-video]: http://youtu.be/FeTIaXh48EM
+
+[1-many-relationships-code]: https://github.com/learn-co-students/dumbo-web-031119/tree/master/14-sinatra-relationships/
+[1-many-relationships-video]: http://youtu.be/RoxtY40pddc
