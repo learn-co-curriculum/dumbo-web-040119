@@ -24,5 +24,5 @@
 [intro-object-oriented-programming-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/03-oo/
 [intro-object-oriented-programming-video]: http://youtu.be/FeTIaXh48EM
 
-[1-many-relationships-code]: https://github.com/learn-co-students/dumbo-web-031119/tree/master/14-sinatra-relationships/
+[1-many-relationships-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/04-one-to-many
 [1-many-relationships-video]: http://youtu.be/RoxtY40pddc
