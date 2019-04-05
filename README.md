@@ -11,6 +11,7 @@
 | Hashes and the Internet | [Code][hashes-and-internet-code] | [Video][hashes-and-internet-video] |
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 | Object Relationships: One to Many | [Code][1-many-relationships-code] | [Video][1-many-relationships-video] |
+| Object Relationships — Many to Many | [Code][object-relationships-many-many-code] | [Video][object-relationships-many-many-video] |
 
 
 
@@ -26,3 +27,6 @@
 
 [1-many-relationships-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/04-one-to-many
 [1-many-relationships-video]: https://www.youtube.com/watch?v=Lssf6NbDLeg
+
+[object-relationships-many-many-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/05-many-to-many/
+[object-relationships-many-many-video]: http://youtu.be/zrrLJ7gQbas
