@@ -15,8 +15,6 @@
 | SQL Review | [Code][sql-review-code] | [Video][sql-review-video] |
 
 
-
-
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
 [hashketball-vid]: https://www.youtube.com/watch?v=0U2nq6bCgLQ
 
