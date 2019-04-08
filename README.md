@@ -12,6 +12,7 @@
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 | Object Relationships: One to Many | [Code][1-many-relationships-code] | [Video][1-many-relationships-video] |
 | Object Relationships — Many to Many | [Code][object-relationships-many-many-code] | [Video][object-relationships-many-many-video] |
+| SQL Review | [Code][sql-review-code] | [Video][sql-review-video] |
 
 
 
@@ -30,3 +31,6 @@
 
 [object-relationships-many-many-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/05-many-to-many/
 [object-relationships-many-many-video]: http://youtu.be/zrrLJ7gQbas
+
+[sql-review-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/06-sql-review/
+[sql-review-video]: http://youtu.be/eMO63ZYi404
