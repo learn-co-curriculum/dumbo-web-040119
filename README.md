@@ -34,5 +34,5 @@
 [sql-review-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/06-sql-review/
 [sql-review-video]: http://youtu.be/eMO63ZYi404
 
-[intro-activerecord-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[intro-activerecord-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/07-active-record-intro
 [intro-activerecord-video]: http://youtu.be/bcbNbD6UxOU
