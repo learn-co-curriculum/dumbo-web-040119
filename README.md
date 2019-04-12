@@ -38,5 +38,5 @@
 [intro-activerecord-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/07-active-record-intro
 [intro-activerecord-video]: http://youtu.be/bcbNbD6UxOU
 
-[activerecord-associations-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[activerecord-associations-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/08-ar-associations
 [activerecord-associations-video]: http://youtu.be/tIffYTZB23k
