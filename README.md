@@ -14,6 +14,7 @@
 | Object Relationships — Many to Many | [Code][object-relationships-many-many-code] | [Video][object-relationships-many-many-video] |
 | SQL Review | [Code][sql-review-code] | [Video][sql-review-video] |
 | Intro to ActiveRecord | [Code][intro-activerecord-code] | [Video][intro-activerecord-video] |
+| ActiveRecord Associations | [Code][activerecord-associations-code] | [Video][activerecord-associations-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -36,3 +37,6 @@
 
 [intro-activerecord-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/07-active-record-intro
 [intro-activerecord-video]: http://youtu.be/bcbNbD6UxOU
+
+[activerecord-associations-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[activerecord-associations-video]: http://youtu.be/tIffYTZB23k
