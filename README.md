@@ -40,3 +40,36 @@
 
 [activerecord-associations-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/08-ar-associations
 [activerecord-associations-video]: http://youtu.be/tIffYTZB23k
+
+
+## Blog Schedule
+
+Be sure to publish all your blogs and slack the link to your post to a TCF 15mins before your presentation. During your presentation, you will have your blog on the screen and talk about your topic for no more than five minutes. We make the blog schedule available here on your Learn.co dashboard so that you may **plan ahead**. 
+
+| **Date**  	| **Blog Presenters**                                                                                  |
+|-------	|--------------------------------------------------------------------------------------------------------- |
+| Mod 2   | Week 1 | 
+| 04/22 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil, Frankie Tse |
+| 04/23 	| Peter Ayres, Matt Bartl, Lorenzo Llamas, Adam Friedman, Codey Pinero |
+| 04/24 	| Yoonmi Kim, Bill Ghayas, Luka Baramishvili, Chris Oglivy, Mallory Woods |
+| 04/25 	| Jerry Velazquez, Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
+| Mod 2   | Week 2 | 
+| 05/06 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil, Frankie Tse |
+| 05/07 	| Peter Ayres, Matt Bartl, Lorenzo Llamas, Adam Friedman, Codey Pinero |
+| 05/08 	| Yoonmi Kim, Bill Ghayas, Luka Baramishvili, Chris Oglivy, Mallory Woods |
+| 05/09  	| Jerry Velazquez, Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
+| Mod 3   | Week 2 | 
+| 05/21 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil |
+| 05/22 	| Frankie Tse, Peter Ayres, Matt Bartl, Lorenzo Llamas |
+| 05/23 	| Adam Friedman, Codey Pinero, Yoonmi Kim, Bill Ghayas |
+| Mod 3   | Week 3 | 
+| 05/28  	| Luka Baramishvili, Chris Oglivy, Mallory Woods, Jerry Velazquez |
+| 05/30  	| Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
+| Mod 4   | Week 2 | 
+| 06/11 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil |
+| 06/12 	| Frankie Tse, Peter Ayres, Matt Bartl, Lorenzo Llamas |
+| 06/13 	| Adam Friedman, Codey Pinero, Yoonmi Kim, Bill Ghayas |
+| Mod 4   | Week 3 | 
+| 06/18  	| Luka Baramishvili, Chris Oglivy, Mallory Woods, Jerry Velazquez |
+| 06/20  	| Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
+
