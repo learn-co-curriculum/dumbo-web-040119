@@ -53,7 +53,7 @@ Be sure to publish all your blogs and slack the link to your post to a TCF 15min
 | 04/23 	| Peter Ayres, Matt Bartl, Lorenzo Llamas, Adam Friedman, Codey Pinero |
 | 04/24 	| Yoonmi Kim, Bill Ghayas, Luka Baramishvili, Chris Oglivy, Mallory Woods |
 | 04/25 	| Jerry Velazquez, Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
-| Mod 2   | Week 2 | 
+| Mod 2   | Week 3 | 
 | 05/06 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil, Frankie Tse |
 | 05/07 	| Peter Ayres, Matt Bartl, Lorenzo Llamas, Adam Friedman, Codey Pinero |
 | 05/08 	| Yoonmi Kim, Bill Ghayas, Luka Baramishvili, Chris Oglivy, Mallory Woods |
