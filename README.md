@@ -43,10 +43,10 @@
 [activerecord-associations-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/08-ar-associations
 [activerecord-associations-video]: http://youtu.be/tIffYTZB23k
 
-[rack-internet-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[rack-internet-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/09-rack-internet
 [rack-internet-video]: http://youtu.be/H3CJNUixhCI
 
-[intro-sinatra-mvc-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[intro-sinatra-mvc-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/10-sinatra-mvc
 [intro-sinatra-mvc-video]: http://youtu.be/75gIS8iiztQ
 
 
