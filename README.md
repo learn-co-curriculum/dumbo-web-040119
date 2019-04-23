@@ -16,6 +16,7 @@
 | Intro to ActiveRecord | [Code][intro-activerecord-code] | [Video][intro-activerecord-video] |
 | ActiveRecord Associations | [Code][activerecord-associations-code] | [Video][activerecord-associations-video] |
 | Rack and the Internet | [Code][rack-internet-code] | [Video][rack-internet-video] |
+| Intro to Sinatra and MVC | [Code][intro-sinatra-mvc-code] | [Video][intro-sinatra-mvc-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -44,6 +45,9 @@
 
 [rack-internet-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [rack-internet-video]: http://youtu.be/H3CJNUixhCI
+
+[intro-sinatra-mvc-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[intro-sinatra-mvc-video]: http://youtu.be/75gIS8iiztQ
 
 
 ## Blog Schedule
