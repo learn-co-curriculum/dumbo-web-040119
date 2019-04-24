@@ -19,6 +19,7 @@
 | Intro to Sinatra and MVC | [Code][intro-sinatra-mvc-code] | [Video][intro-sinatra-mvc-video] |
 | Forms | [Code][forms-code] | [Video][forms-video] |
 | Sinatra REST I (CR) | [Code][sinatra-rest-i-cr--code] | [Video][sinatra-rest-i-cr--video] |
+| Sinatra REST II (UD) | [Code][sinatra-rest-ii-ud--code] | [Video][sinatra-rest-ii-ud--video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -56,6 +57,9 @@
 
 [sinatra-rest-i-cr--code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [sinatra-rest-i-cr--video]: http://youtu.be/NagE6YLbd9Q
+
+[sinatra-rest-ii-ud--code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[sinatra-rest-ii-ud--video]: http://youtu.be/tEb1WMWm0M8
 
 
 ## Blog Schedule
