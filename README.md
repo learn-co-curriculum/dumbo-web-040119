@@ -18,6 +18,7 @@
 | Rack and the Internet | [Code][rack-internet-code] | [Video][rack-internet-video] |
 | Intro to Sinatra and MVC | [Code][intro-sinatra-mvc-code] | [Video][intro-sinatra-mvc-video] |
 | Forms | [Code][forms-code] | [Video][forms-video] |
+| Sinatra REST I (CR) | [Code][sinatra-rest-i-cr--code] | [Video][sinatra-rest-i-cr--video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -52,6 +53,9 @@
 
 [forms-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [forms-video]: http://youtu.be/tRH0UnB928g
+
+[sinatra-rest-i-cr--code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[sinatra-rest-i-cr--video]: http://youtu.be/NagE6YLbd9Q
 
 
 ## Blog Schedule
