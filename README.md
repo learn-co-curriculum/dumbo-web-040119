@@ -52,13 +52,13 @@
 [intro-sinatra-mvc-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/10-sinatra-mvc
 [intro-sinatra-mvc-video]: http://youtu.be/75gIS8iiztQ
 
-[forms-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[forms-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/11-forms
 [forms-video]: http://youtu.be/tRH0UnB928g
 
-[sinatra-rest-i-cr--code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[sinatra-rest-i-cr--code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/12-rest
 [sinatra-rest-i-cr--video]: http://youtu.be/NagE6YLbd9Q
 
-[sinatra-rest-ii-ud--code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[sinatra-rest-ii-ud--code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/12-rest
 [sinatra-rest-ii-ud--video]: http://youtu.be/tEb1WMWm0M8
 
 
