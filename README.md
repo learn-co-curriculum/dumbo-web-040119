@@ -21,6 +21,7 @@
 | Sinatra REST I (CR) | [Code][sinatra-rest-i-cr--code] | [Video][sinatra-rest-i-cr--video] |
 | Sinatra REST II (UD) | [Code][sinatra-rest-ii-ud--code] | [Video][sinatra-rest-ii-ud--video] |
 | Sinatra Relationships | [Code][sinatra-relationships-code] | [Video][sinatra-relationships-video] |
+| Intro to Rails | [Code][intro-rails-code] | [Video][intro-rails-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -64,6 +65,9 @@
 
 [sinatra-relationships-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/13-sinatra-relationships/
 [sinatra-relationships-video]: http://youtu.be/wGI1VXgx4Cw
+
+[intro-rails-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/14-intro-rails/
+[intro-rails-video]: http://youtu.be/q3e1b-ljQEU
 
 
 ## Blog Schedule
