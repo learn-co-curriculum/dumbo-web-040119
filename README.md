@@ -23,6 +23,7 @@
 | Sinatra Relationships | [Code][sinatra-relationships-code] | [Video][sinatra-relationships-video] |
 | Intro to Rails | [Code][intro-rails-code] | [Video][intro-rails-video] |
 | Rails Forms | [Code][rails-forms-code] | [Video][rails-forms-video] |
+| Rails Validations | [Code][rails-validations-code] | [Video][rails-validations-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -72,6 +73,9 @@
 
 [rails-forms-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/15-rails-forms/
 [rails-forms-video]: http://youtu.be/HscPKVxXqXE
+
+[rails-validations-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/16-rails-validations/
+[rails-validations-video]: http://youtu.be/p1v6SojRoLs
 
 
 ## Blog Schedule
