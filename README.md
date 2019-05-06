@@ -24,6 +24,7 @@
 | Intro to Rails | [Code][intro-rails-code] | [Video][intro-rails-video] |
 | Rails Forms | [Code][rails-forms-code] | [Video][rails-forms-video] |
 | Rails Validations | [Code][rails-validations-code] | [Video][rails-validations-video] |
+| Sessions, Cookies, & Flash | [Code][sessions-cookies-flash-code] | [Video][sessions-cookies-flash-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -76,6 +77,9 @@
 
 [rails-validations-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/16-rails-validations/
 [rails-validations-video]: http://youtu.be/p1v6SojRoLs
+
+[sessions-cookies-flash-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/18-sessions-cookies-flash/
+[sessions-cookies-flash-video]: http://youtu.be/GP5ADEMmLgo
 
 
 ## Blog Schedule
