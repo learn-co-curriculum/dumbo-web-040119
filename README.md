@@ -121,3 +121,24 @@ Be sure to publish all your blogs and slack the link to your post to a TCF 15min
 | 06/18  	| Luka Baramishvili, Chris Oglivy, Mallory Woods, Jerry Velazquez |
 | 06/20  	| Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
 
+
+## FSP Schedule
+
+| **Date**  	| **FSP Presenters**                                                                                  |
+|-------	|--------------------------------------------------------------------------------------------------------- |
+| Mod 3   | Week 3 | 
+| 05/28 	| Chris Oglivy & Frankie Tse |
+|       	| Lorenzo Llamas & Susan Tan |
+|       	| Adam Kearney & Yoonmi Kim |
+|       	| Reinald Reynoso & Sylwia Vargas |
+| Mod 4   | Week 1 | 
+| 06/04 	| Merjen Charyyeva & Gino Desangles |
+|        	| Bill Ghayas & Brenden Williams |
+|       	| Peter Ayres & Mallory Woods |
+|       	| Miguel Henriquez & Shoptorshi Jamil |
+| Mod 4   | Week 2 | 
+| 06/11 	| Kate Follett & Ernie Val |
+|  	      | Luka Baramishvili & Matt Bartl |
+|       	| Adam Friedman & Jerry Velazquez |
+
+
