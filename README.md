@@ -108,15 +108,15 @@ Be sure to publish all your blogs and slack the link to your post to a TCF 15min
 | 05/09  	| Jerry Velazquez, Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
 | Mod 3   | Week 2 | 
 | 05/21 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil |
-| 05/22 	| Frankie Tse, Peter Ayres, Matt Bartl, Lorenzo Llamas, MJ Charyyeva |
-| 05/23 	| Adam Friedman, Miguel Henriquez, Yoonmi Kim, Bill Ghayas |
+| 05/22 	| Frankie Tse, Peter Ayres, Lorenzo Llamas, MJ Charyyeva |
+| 05/23 	| Miguel Henriquez, Yoonmi Kim, Matt Bartl, Sylwia Vargas |
 | Mod 3   | Week 3 | 
 | 05/28  	| Luka Baramishvili, Chris Oglivy, Mallory Woods, Jerry Velazquez |
-| 05/30  	| Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
+| 05/30  	| Adam Kearney, Ernie Val, Reinald Reynoso, Susan Tan|
 | Mod 4   | Week 2 | 
 | 06/11 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil |
 | 06/12 	| Frankie Tse, Peter Ayres, Matt Bartl, Lorenzo Llamas, MJ Charyyeva |
-| 06/13 	| Adam Friedman, Miguel Henriquez, Yoonmi Kim, Bill Ghayas |
+| 06/13 	| Miguel Henriquez, Yoonmi Kim, Enmanuel Rodriguez, Terence Patane-Ronan |
 | Mod 4   | Week 3 | 
 | 06/18  	| Luka Baramishvili, Chris Oglivy, Mallory Woods, Jerry Velazquez |
 | 06/20  	| Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
@@ -133,12 +133,12 @@ Be sure to publish all your blogs and slack the link to your post to a TCF 15min
 |       	| Reinald Reynoso & Sylwia Vargas |
 | Mod 4   | Week 1 | 
 | 06/04 	| Merjen Charyyeva & Gino Desangles |
-|        	| Bill Ghayas & Brenden Williams |
-|       	| Peter Ayres & Mallory Woods |
+|        	| Jerry Velazquez & Brenden Williams |
 |       	| Miguel Henriquez & Shoptorshi Jamil |
 | Mod 4   | Week 2 | 
 | 06/11 	| Kate Follett & Ernie Val |
 |  	      | Luka Baramishvili & Matt Bartl |
-|       	| Adam Friedman & Jerry Velazquez |
+|       	| Peter Ayres & Mallory Woods |
+
 
 
