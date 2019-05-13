@@ -27,6 +27,7 @@
 | Sessions, Cookies, & Flash | [Code][sessions-cookies-flash-code] | [Video][sessions-cookies-flash-video] |
 | Authorization | [Code][authorization-code] | [Video][authorization-video] |
 | Authentication | [Code][authentication-code] | [Video][authentication-video] |
+| Intro to the DOM | [Code][intro-dom-code] | [Video][intro-dom-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -88,6 +89,9 @@
 
 [authentication-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/19-auth/
 [authentication-video]: http://youtu.be/h32s-biNRcw
+
+[intro-dom-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/22-dom/
+[intro-dom-video]: http://youtu.be/_lj8XnywBCo
 
 
 ## Blog Schedule
