@@ -31,6 +31,7 @@
 | Intro to the DOM | [Code][intro-dom-code] | [Video][intro-dom-video] |
 | Intro to Events
  | [Code][intro-events--code] | [Video][intro-events--video] |
+| DOM CRUD | [Code][dom-crud-code] | [Video][dom-crud-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -101,6 +102,9 @@
 
 [intro-events--code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/23-events/
 [intro-events--video]: http://youtu.be/kmkJknJGI-0
+
+[dom-crud-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/24-dom-crud/
+[dom-crud-video]: http://youtu.be/XZfa4ASX0mg
 
 
 
