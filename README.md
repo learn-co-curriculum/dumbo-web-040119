@@ -29,6 +29,8 @@
 | Authentication | [Code][authentication-code] | [Video][authentication-video] |
 | Intro to Front-End Web Development | [Code][intro-front-end-web-development-code] | [Video][intro-front-end-web-development-video] |
 | Intro to the DOM | [Code][intro-dom-code] | [Video][intro-dom-video] |
+| Intro to Events
+ | [Code][intro-events--code] | [Video][intro-events--video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -96,6 +98,9 @@
 
 [intro-dom-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/22-dom/
 [intro-dom-video]: http://youtu.be/_lj8XnywBCo
+
+[intro-events--code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/23-events/
+[intro-events--video]: http://youtu.be/kmkJknJGI-0
 
 
 
