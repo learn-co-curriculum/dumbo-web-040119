@@ -27,10 +27,8 @@
 | Sessions, Cookies, & Flash | [Code][sessions-cookies-flash-code] | [Video][sessions-cookies-flash-video] |
 | Authorization | [Code][authorization-code] | [Video][authorization-video] |
 | Authentication | [Code][authentication-code] | [Video][authentication-video] |
+| Intro to Front-End Web Development | [Code][intro-front-end-web-development-code] | [Video][intro-front-end-web-development-video] |
 | Intro to the DOM | [Code][intro-dom-code] | [Video][intro-dom-video] |
-| Intro to Front-End Web Development | [Code][intro-front-end-web-development-code] | [Video][intro-front-end-web-development-video] |
-| Intro to Front-End Web Development | [Code][intro-front-end-web-development-code] | [Video][intro-front-end-web-development-video] |
-| Intro to Front-End Web Development | [Code][intro-front-end-web-development-code] | [Video][intro-front-end-web-development-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
