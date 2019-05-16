@@ -33,6 +33,7 @@
  | [Code][intro-events--code] | [Video][intro-events--video] |
 | DOM CRUD | [Code][dom-crud-code] | [Video][dom-crud-video] |
 | Jane's Fundamentals | [Code][js-funds-code] | [Video][js-funds-vid] |
+| Fetch CR(UD) | [Code][fetch-cr-ud--code] | [Video][fetch-cr-ud--video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -109,6 +110,9 @@
 
 [js-funds-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/26-jane-fundamentals
 [js-funds-vid]: https://youtu.be/t3UJ9gfy26o
+
+[fetch-cr-ud--code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/28-fetch-ud/
+[fetch-cr-ud--video]: http://youtu.be/77c7o4eKR8o
 
 
 ## Blog Schedule
