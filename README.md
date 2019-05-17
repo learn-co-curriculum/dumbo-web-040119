@@ -34,6 +34,7 @@
 | DOM CRUD | [Code][dom-crud-code] | [Video][dom-crud-video] |
 | Jane's Fundamentals | [Code][js-funds-code] | [Video][js-funds-vid] |
 | Fetch CR(UD) | [Code][fetch-cr-ud--code] | [Video][fetch-cr-ud--video] |
+| Group Review | [Code][group-review-code] | [Video][group-review-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -113,6 +114,9 @@
 
 [fetch-cr-ud--code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/28-fetch-ud/
 [fetch-cr-ud--video]: http://youtu.be/77c7o4eKR8o
+
+[group-review-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[group-review-video]: http://youtu.be/S_sD_BjkAXw
 
 
 ## Blog Schedule
