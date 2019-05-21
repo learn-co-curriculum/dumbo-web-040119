@@ -36,6 +36,7 @@
 | Fetch CR(UD) | [Code][fetch-cr-ud--code] | [Video][fetch-cr-ud--video] |
 | Group Review | [Code][group-review-code] | [Video][group-review-video] |
 | Delegation | [Code][delegation-code] | [Video][delegation-video] |
+| JS Bug Squashing | [Code][js-bug-squashing-code] | [Video][js-bug-squashing-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -121,6 +122,9 @@
 
 [delegation-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/29-delegation/
 [delegation-video]: http://youtu.be/NelOUm7f-dM
+
+[js-bug-squashing-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/30-debugging/
+[js-bug-squashing-video]: http://youtu.be/J-sXEAiWsxI
 
 
 ## Blog Schedule
