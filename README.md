@@ -38,6 +38,7 @@
 | Delegation | [Code][delegation-code] | [Video][delegation-video] |
 | JS Bug Squashing | [Code][js-bug-squashing-code] | [Video][js-bug-squashing-video] |
 | OO JS | [Code][oo-js-code] | [Video][oo-js-video] |
+| OO JS | [Code][oo-js-code] | [Video][oo-js-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -129,6 +130,9 @@
 
 [oo-js-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/31-oojs/
 [oo-js-video]: http://youtu.be/3S_TIKCuWHc
+
+[oo-js-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/31-oojs/
+[oo-js-video]: http://youtu.be/H1_g1nv91IM
 
 
 ## Blog Schedule
