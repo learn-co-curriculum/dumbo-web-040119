@@ -29,8 +29,7 @@
 | Authentication | [Code][authentication-code] | [Video][authentication-video] |
 | Intro to Front-End Web Development | [Code][intro-front-end-web-development-code] | [Video][intro-front-end-web-development-video] |
 | Intro to the DOM | [Code][intro-dom-code] | [Video][intro-dom-video] |
-| Intro to Events
- | [Code][intro-events--code] | [Video][intro-events--video] |
+| Intro to Events | [Code][intro-events--code] | [Video][intro-events--video] |
 | DOM CRUD | [Code][dom-crud-code] | [Video][dom-crud-video] |
 | Jane's Fundamentals | [Code][js-funds-code] | [Video][js-funds-vid] |
 | Fetch CR(UD) | [Code][fetch-cr-ud--code] | [Video][fetch-cr-ud--video] |
@@ -39,6 +38,7 @@
 | JS Bug Squashing | [Code][js-bug-squashing-code] | [Video][js-bug-squashing-video] |
 | OO JS | [Code][oo-js-code] | [Video][oo-js-video] |
 | OO JS | [Code][oo-js-code] | [Video][oo-js-video] |
+| Rails API | [Code][rails-api-code] | [Video][rails-api-video] |
 | this, bind, call, apply | [Code][this-bind-call-apply-code] | [Video][this-bind-call-apply-video] |
 
 
@@ -134,6 +134,9 @@
 
 [oo-js-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/31-oojs/
 [oo-js-video]: http://youtu.be/H1_g1nv91IM
+
+[rails-api-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/32.5-rails-api/
+[rails-api-video]: https://youtu.be/hXBf5z-Mp6Q
 
 [this-bind-call-apply-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/32-this-bind-call-apply/
 [this-bind-call-apply-video]: http://youtu.be/DZsBvQ5xaNQ
