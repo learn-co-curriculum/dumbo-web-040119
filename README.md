@@ -40,6 +40,7 @@
 | OO JS | [Code][oo-js-code] | [Video][oo-js-video] |
 | Rails API | [Code][rails-api-code] | [Video][rails-api-video] |
 | this, bind, call, apply | [Code][this-bind-call-apply-code] | [Video][this-bind-call-apply-video] |
+| Arrow functions | [Code][arrow-functions-code] | [Video][arrow-functions-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -140,6 +141,9 @@
 
 [this-bind-call-apply-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/32-this-bind-call-apply/
 [this-bind-call-apply-video]: http://youtu.be/DZsBvQ5xaNQ
+
+[arrow-functions-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/33-es6/
+[arrow-functions-video]: http://youtu.be/7AUaBCLs_as
 
 
 ## Blog Schedule
