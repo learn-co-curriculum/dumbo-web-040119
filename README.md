@@ -41,6 +41,7 @@
 | Rails API | [Code][rails-api-code] | [Video][rails-api-video] |
 | this, bind, call, apply | [Code][this-bind-call-apply-code] | [Video][this-bind-call-apply-video] |
 | Arrow functions | [Code][arrow-functions-code] | [Video][arrow-functions-video] |
+| ES6 and Beyond | [Code][es6-beyond-code] | [Video][es6-beyond-video] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
@@ -144,6 +145,9 @@
 
 [arrow-functions-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/33-es6/
 [arrow-functions-video]: http://youtu.be/7AUaBCLs_as
+
+[es6-beyond-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/33-es6/
+[es6-beyond-video]: http://youtu.be/M73JLS2JSLs
 
 
 ## Blog Schedule
