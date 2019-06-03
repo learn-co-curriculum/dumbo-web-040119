@@ -42,7 +42,7 @@
 | this, bind, call, apply | [Code][this-bind-call-apply-code] | [Video][this-bind-call-apply-video] |
 | Arrow functions | [Code][arrow-functions-code] | [Video][arrow-functions-video] |
 | ES6 and Beyond | [Code][es6-beyond-code] | [Video][es6-beyond-video] |
-
+| Intro to React | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/34-intro-to-react) | [Video](https://youtu.be/hv0Cj9Q8Blc) |
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
 [hashketball-vid]: https://www.youtube.com/watch?v=0U2nq6bCgLQ
