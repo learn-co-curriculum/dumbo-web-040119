@@ -44,6 +44,7 @@
 | ES6 and Beyond | [Code][es6-beyond-code] | [Video][es6-beyond-video] |
 | Intro to React | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/34-intro-to-react) | [Intro](https://youtu.be/hv0Cj9Q8Blc) / [JSX and Props](https://youtu.be/jgqbg56WfzU) |
 | State and Events | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/35-state-events-conditional-rendering) | [Video 1](https://youtu.be/c36jYDa9QlM) / [Video 2](https://youtu.be/48l0GHM_oj4) |
+| State and Forms | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/36-state-and-forms) | [Video](https://youtu.be/mdnQx0EIaJ0) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
