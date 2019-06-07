@@ -46,6 +46,7 @@
 | State and Events | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/35-state-events-conditional-rendering) | [Video 1](https://youtu.be/c36jYDa9QlM) / [Video 2](https://youtu.be/48l0GHM_oj4) |
 | State and Forms | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/36-state-and-forms) | [Video](https://youtu.be/mdnQx0EIaJ0) |
 | Thinking in React | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/37-thinking-in-react) | [Video](https://youtu.be/VQYErVYn2vo) |
+| React Best Practices | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/38-react-best-practices) | [Video](https://youtu.be/frcY63sUI0o) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
