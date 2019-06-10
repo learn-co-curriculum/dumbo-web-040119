@@ -47,6 +47,7 @@
 | State and Forms | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/36-state-and-forms) | [Video](https://youtu.be/mdnQx0EIaJ0) |
 | Thinking in React | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/37-thinking-in-react) | [Video](https://youtu.be/VQYErVYn2vo) |
 | React Best Practices | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/38-react-best-practices) | [Video](https://youtu.be/frcY63sUI0o) |
+| Component Lifecycle | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/39-component-lifecycle) | [Video](https://youtu.be/Jgcc4rN7RPY) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
