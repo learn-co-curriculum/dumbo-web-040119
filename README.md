@@ -163,24 +163,24 @@ Be sure to publish all your blogs and slack the link to your post to a TCF 15min
 | **Date**  	| **Blog Presenters**                                                                                  |
 |-------	|--------------------------------------------------------------------------------------------------------- |
 | Mod 2   | Week 1 | 
-| 04/22 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil, Frankie Tse |
+| 04/22 	| Brenden Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil, Frankie Tse |
 | 04/23 	| Peter Ayres, Matt Bartl, Lorenzo Llamas, Adam Friedman, Codey Pinero |
 | 04/24 	| Yoonmi Kim, Bill Ghayas, Luka Baramishvili, Chris Oglivy, Mallory Woods |
 | 04/25 	| Jerry Velazquez, Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
 | Mod 2   | Week 3 | 
-| 05/06 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil, Frankie Tse |
+| 05/06 	| Brenden Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil, Frankie Tse |
 | 05/07 	| Peter Ayres, Matt Bartl, Lorenzo Llamas, Adam Friedman, Codey Pinero |
 | 05/08 	| Yoonmi Kim, Bill Ghayas, Luka Baramishvili, Chris Oglivy, Mallory Woods |
 | 05/09  	| Jerry Velazquez, Adam Kearney, Ernie Val, Sylwia Vargas, Reinald Reynoso, Susan Tan|
 | Mod 3   | Week 2 | 
-| 05/21 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil |
+| 05/21 	| Brenden Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil |
 | 05/22 	| Frankie Tse, Peter Ayres, Lorenzo Llamas, MJ Charyyeva |
 | 05/23 	| Miguel Henriquez, Yoonmi Kim, Matt Bartl, Sylwia Vargas |
 | Mod 3   | Week 3 | 
 | 05/28  	| Luka Baramishvili, Chris Oglivy, Mallory Woods, Jerry Velazquez |
 | 05/30  	| Adam Kearney, Ernie Val, Reinald Reynoso, Susan Tan|
 | Mod 4   | Week 2 | 
-| 06/11 	| Brendan Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil |
+| 06/11 	| Brenden Williams, Kate Follett, Gino Desangles, Shoptorshi Jamil |
 | 06/12 	| Frankie Tse, Peter Ayres, Matt Bartl, Lorenzo Llamas, MJ Charyyeva |
 | 06/13 	| Miguel Henriquez, Yoonmi Kim, Enmanuel Rodriguez, Terence Patane-Ronan |
 | Mod 4   | Week 3 | 
