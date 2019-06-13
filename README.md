@@ -49,6 +49,7 @@
 | React Best Practices | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/38-react-best-practices) | [Video](https://youtu.be/frcY63sUI0o) |
 | Component Lifecycle | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/39-component-lifecycle) | [Video](https://youtu.be/Jgcc4rN7RPY) / [Bonus](https://youtu.be/xcJYFAyh1w4) |
 | Sushi Saga Review | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/40-sushi-review) | [Video](https://youtu.be/ScNQ95srobU) |
+| React Router | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/41-react-router) | [Video 1](https://youtu.be/JIUYX2RSooo) /[Video 2() |
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
 [hashketball-vid]: https://www.youtube.com/watch?v=0U2nq6bCgLQ
