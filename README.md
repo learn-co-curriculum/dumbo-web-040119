@@ -50,6 +50,7 @@
 | Component Lifecycle | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/39-component-lifecycle) | [Video](https://youtu.be/Jgcc4rN7RPY) / [Bonus](https://youtu.be/xcJYFAyh1w4) |
 | Sushi Saga Review | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/40-sushi-review) | [Video](https://youtu.be/ScNQ95srobU) |
 | React Router | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/41-react-router) | [Video 1](https://youtu.be/JIUYX2RSooo) / [Video 2](https://youtu.be/SE9BuWbkOj4) |
+| Fullstack Auth | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/42-fullstack-auth) | [Video 1](https://youtu.be/C0eC4cX-3WM) / [Video 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
 [hashketball-vid]: https://www.youtube.com/watch?v=0U2nq6bCgLQ
