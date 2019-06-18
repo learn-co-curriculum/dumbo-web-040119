@@ -52,6 +52,7 @@
 | React Router | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/41-react-router) | [Video 1](https://youtu.be/JIUYX2RSooo) / [Video 2](https://youtu.be/SE9BuWbkOj4) |
 | Fullstack Auth | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/42-fullstack-auth) | [Video 1](https://youtu.be/C0eC4cX-3WM) / [Video 2](https://youtu.be/JSjIJNa32iw) |
 | React: Under the Hood | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/43-react-under-the-hood) | [Video](https://youtu.be/yDd3FrvgXE8) |
+| CSS | [Code][css-code] | [Video][css-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
 [hashketball-vid]: https://www.youtube.com/watch?v=0U2nq6bCgLQ
@@ -157,6 +158,9 @@
 
 [es6-beyond-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/33-es6/
 [es6-beyond-video]: http://youtu.be/M73JLS2JSLs
+
+[css-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/20-css/
+[css-video]: http://youtu.be/46X7HrLu8rQ
 
 
 ## Blog Schedule
