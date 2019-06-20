@@ -53,6 +53,7 @@
 | Fullstack Auth | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/42-fullstack-auth) | [Video 1](https://youtu.be/C0eC4cX-3WM) / [Video 2](https://youtu.be/JSjIJNa32iw) |
 | React: Under the Hood | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/43-react-under-the-hood) | [Video](https://youtu.be/yDd3FrvgXE8) |
 | CSS | [Code][css-code] | [Video][css-video] |
+| Predux | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/44-predux) | [Video](https://youtu.be/uCzSzsYZPpc) |
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
 [hashketball-vid]: https://www.youtube.com/watch?v=0U2nq6bCgLQ
