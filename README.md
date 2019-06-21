@@ -55,6 +55,7 @@
 | CSS | [Code][css-code] | [Video][css-video] |
 | Predux | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/44-predux) | [Video](https://youtu.be/uCzSzsYZPpc) |
 | Intro to Redux | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/45-intro-to-redux) | [Video](https://youtu.be/E_UzYIe0oC8) |
+| React Redux | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/46-react-redux) | [Video](https://youtu.be/osnBVSO8190) |
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-040119/tree/master/01-hashketball-review
 [hashketball-vid]: https://www.youtube.com/watch?v=0U2nq6bCgLQ
